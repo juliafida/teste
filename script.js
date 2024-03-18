@@ -7,9 +7,9 @@ function toggleMode() {
 
     if (html.classList.contains("light")) {
         console.log("teste")
-        img.setAttribute("src", "./public/assets/avatar-light.png") }
+        img.setAttribute("src", "./public/assets/nina3.jpeg") }
         else { 
-            img.setAttribute("src", "./public/assets/avatar.png")
+            img.setAttribute("src", "./public/assets/nina2.jpeg")
         }
 
 
