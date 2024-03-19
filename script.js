@@ -7,9 +7,9 @@ function toggleMode() {
 
     if (html.classList.contains("light")) {
         console.log("teste")
-        img.setAttribute("src", "./public/assets/nina3.jpeg") }
+        img.setAttribute("src", "./public/assets/ninafigma2.png") }
         else { 
-            img.setAttribute("src", "./public/assets/nina2.jpeg")
+            img.setAttribute("src", "./public/assets/ninafigma3.png")
         }
 
 
